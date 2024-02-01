@@ -1,4 +1,4 @@
-﻿# Configuration
+﻿#  Configuration
 $global:cwd = Get-Location
 $global:screenshotPath = Join-Path -Path $global:cwd -ChildPath "cypress\screenshots"
 
