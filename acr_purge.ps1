@@ -3,6 +3,7 @@
 # Run only if you do not have systems
 # that pull images via manifest digest.
 
+
 # Change to 'true' to enable image delete
 $ENABLE_DELETE = "false"
 # Modify for your environment
